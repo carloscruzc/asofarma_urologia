@@ -1,8 +1,7 @@
 <?php
-  
 // The location of the PDF file
 // on the server
-$filename = "/assets/pdf/Horario_Uro.pdf";
+$filename = "assets/pdf/horario_uro.pdf";
   
 // Header content type
 header("Content-type: application/pdf");
